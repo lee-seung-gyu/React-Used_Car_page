@@ -1,0 +1,30 @@
+.input{
+    width: 60%;
+    height: 50px;
+    padding: 10px;
+    margin-left: 8%;
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: 0;
+    background: #eee;
+    font-size: 17px;
+    transition: all 0.5s;
+    text-align: center;
+    
+}
+.btn{
+  width: 70px;
+  height: 40px;
+  margin-left: 1.5%;
+   box-sizing: border-box;
+    border-radius: 25px;
+    border: 0;
+    background: #eee;
+    font-size: 17px;
+    transition: all 0.5s;
+
+}
+.btn2{
+  width: 70px;
+  height: 35px;
+}

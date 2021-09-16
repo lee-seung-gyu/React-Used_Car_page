@@ -1,0 +1,29 @@
+.wrap{
+    width: 100%;
+    height: 100%;  
+}
+.wrap>.let{
+    float: left;
+    text-align: center;
+    padding-top: 5%;
+    padding-left: 9%;
+}
+
+.wrap>.let>.img>img{
+    width: 400px;
+    height: 300px;
+}
+.img>img:hover{
+    transform:scale(1.6,1.6);
+    transition: 2s;
+}
+
+
+
+
+@media(max-width: 1590px) {.wrap {width: 100%;}.let{margin-left: 7%;} }
+@media(max-width: 1200px) {.wrap {width: 100%;} .let{margin-left: 20%;}}
+@media(max-width: 850px) {.wrap {width: 100%;} .let{margin-left: 10%;}}
+
+
+

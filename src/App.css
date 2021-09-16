@@ -1,0 +1,22 @@
+.wrap{
+  width: 1800px;
+  position: relative;
+}
+.header {
+  width: 100%;
+  height: 10%; 
+  text-align: center;
+  margin-top: 50px; 
+  box-sizing: border-box;
+  
+}
+.section{
+  width: 100%;
+  height: 10%;
+  position: absolute;
+}
+
+@media(max-width: 1600px) {.wrap {width: 100%;}}
+@media(max-width: 1024px) {.wrap {width: 100%;}}
+@media(max-width: 768px) {#wrap {width: 100%;}}
+@media(max-width: 480px) {#wrap {width: 100%;}}
