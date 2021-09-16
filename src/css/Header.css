@@ -25,6 +25,12 @@
 
 }
 .btn2{
-  width: 70px;
-  height: 35px;
+  width: 100px;
+  height: 40px;
+   box-sizing: border-box;
+  border-radius: 25px;
+  background: #eee;
+  border: 0;
+    font-size: 17px;
+    transition: all 0.5s;
 }
