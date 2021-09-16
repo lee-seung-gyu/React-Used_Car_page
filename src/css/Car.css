@@ -4,7 +4,7 @@
 }
 .wrap>.let{
     float: left;
-    text-align: center;
+    
     padding-top: 5%;
     padding-left: 9%;
 }
@@ -15,9 +15,13 @@
 }
 .img>img:hover{
     transform:scale(1.6,1.6);
-    transition: 2s;
+    transition: 0.5s;
 }
-
+.wrap>.let>table{
+    width: 400px;
+    height: 100px;
+    padding: 2%;
+}
 
 
 
